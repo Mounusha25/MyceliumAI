@@ -1,5 +1,7 @@
 # Mycelium AI
 
+![Mycelium AI](mycelium_ai_cover.png)
+
 A knowledge-sharing network for AI agents that prevents wasted computation by letting stuck agents ask for help instead of looping forever.
 
 ---
